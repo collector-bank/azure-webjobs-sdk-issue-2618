@@ -4,6 +4,13 @@ The information provided in this repo is complimentary to the issue https://gith
 
 The repo contains an example web job (see subfolder 'webjob') that reproduces a problem with transient dependencies when using azure webjobs sdk in conjunction with entity framework core and application insights.
 
+# The webjob application
+
+The application is a console app with the following dependencies.
+
+![error callstack](./webjob-dependencies.png)
+
+
 # Error details
 
 An exception is thrown during application startup. 
