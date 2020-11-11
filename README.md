@@ -27,7 +27,7 @@ This exception was originally thrown at this call stack:
 
 ## Visual studio screen shot
 
-![error callstack](./exception.png)
+![error callstack](./exception.PNG)
 
 
 # Key insights
