@@ -2,7 +2,7 @@
 
 The information provided in this repo is complimentary to the issue https://github.com/Azure/azure-webjobs-sdk/issues/2618.
 
-The repo contains an example web job (see subfolder 'webjob') that reproduces a problem with transient dependencies when using azure webjobs sdk in conjunction with entity framework core and application insights.
+The repo contains an example web job (see subfolder 'webjob') that reproduces a problem (which might be due to conflicting transient dependencies) when using azure webjobs sdk in conjunction with entity framework core and application insights.
 
 # The webjob application
 
